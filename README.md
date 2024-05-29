@@ -1,6 +1,6 @@
 # AWS
 # Launching an EC2 instance
-How to run:
+How to run: \n
 download the given files
 create a folder with a name in the same folder where the app.py is present.
 install the required modules.
